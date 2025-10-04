@@ -1,3 +1,4 @@
+// Create a program that determines the greatest of the three numbers.
 import java.util.Scanner;
 
 public class gratestNumber {
@@ -23,5 +24,4 @@ public class gratestNumber {
 }
 
 
-// Create a program that determines the greatest of the three numbers.
  
